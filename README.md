@@ -8,5 +8,5 @@ Install-BoxstarterPackage -PackageName https://gist.github.com/mwrock/7382880/ra
 
 2. Run boxstarter with config in this repo
 ```
-Install-BoxstarterPackage -PackageName RAW-URL -DisableReboots
+Install-BoxstarterPackage -PackageName https://raw.githubusercontent.com/thecomalley/clean-windows/main/boxstarter.txt -DisableReboots
 ```
