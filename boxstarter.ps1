@@ -1,4 +1,4 @@
-#eljefe: There are some services that you simply do not need if you want to lay low. go spelunking in the Services.msc to see why. 
+
 # you are not pulling from shares, you should not expose shares...die LAN Man! with my last breath I will curse thee
 Set-service -Name LanmanServer -StartupType Disabled
 #print spooler: Dead
